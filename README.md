@@ -115,7 +115,7 @@ The final system is deployed using a Streamlit application, which handles:
 - MRI image upload  
 - Preprocessing  
 - Real-time classification  
-- Displaying predictions and confidence scores  
+- Displaying predictions  
 
 ---
 
