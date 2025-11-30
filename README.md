@@ -122,3 +122,5 @@ The final system is deployed using a Streamlit application, which handles:
 ## 9. How to Run the Application
 
 ### Install dependencies
+```bash
+pip install -r requirements.txt
